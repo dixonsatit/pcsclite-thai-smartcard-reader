@@ -1,0 +1,17 @@
+{
+  "name": "pcsclite-thai-smartcard-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "datauri": "^3.0.0",
+    "legacy-encoding": "^3.0.0",
+    "pcsclite": "^1.0.0"
+  }
+}
